@@ -1,0 +1,18 @@
+{
+    "name": "retamayo/ambercore",
+    "description": "The core components for the amber PHP framework.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amber\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "retamayo"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
